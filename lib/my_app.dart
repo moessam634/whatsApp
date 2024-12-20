@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:whatsapp_app/features/home/view/screen/home_screen.dart';
+import 'features/stories/view/screen/stories_screen.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       splitScreenMode: true,
       builder: (_, child) {
         return MaterialApp(
-          home: HomeScreen(),
+          home: StoriesScreen(),
           debugShowCheckedModeBanner: false,
           themeMode: ThemeMode.system,
         );

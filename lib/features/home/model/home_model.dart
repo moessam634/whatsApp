@@ -41,5 +41,30 @@ List<HomeModel> list = [
     subTitle: StringApp.hello,
     image: NetworkImagesApp.firstImage,
     time: StringApp.time,
+  ),HomeModel(
+    title: StringApp.myFriend,
+    subTitle: StringApp.hello,
+    image: NetworkImagesApp.firstImage,
+    time: StringApp.time,
+  ),HomeModel(
+    title: StringApp.myFriend,
+    subTitle: StringApp.hello,
+    image: NetworkImagesApp.firstImage,
+    time: StringApp.time,
+  ),HomeModel(
+    title: StringApp.myFriend,
+    subTitle: StringApp.hello,
+    image: NetworkImagesApp.firstImage,
+    time: StringApp.time,
+  ),HomeModel(
+    title: StringApp.myFriend,
+    subTitle: StringApp.hello,
+    image: NetworkImagesApp.firstImage,
+    time: StringApp.time,
+  ),HomeModel(
+    title: StringApp.myFriend,
+    subTitle: StringApp.hello,
+    image: NetworkImagesApp.firstImage,
+    time: StringApp.time,
   ),
 ];
